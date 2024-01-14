@@ -1,5 +1,5 @@
-module github.com/PanditSiddharth/go-tgind
+module tgind
 
 go 1.18
 
-require "github.com/PanditSiddharth/go-tgind"
+
